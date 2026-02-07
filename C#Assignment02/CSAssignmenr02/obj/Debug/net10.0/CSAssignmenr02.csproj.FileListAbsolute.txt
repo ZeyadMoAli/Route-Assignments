@@ -1,0 +1,15 @@
+D:\Assignment-20260203T090610Z-3-001\CSAssignmenr02\CSAssignmenr02\bin\Debug\net10.0\CSAssignmenr02.exe
+D:\Assignment-20260203T090610Z-3-001\CSAssignmenr02\CSAssignmenr02\bin\Debug\net10.0\CSAssignmenr02.deps.json
+D:\Assignment-20260203T090610Z-3-001\CSAssignmenr02\CSAssignmenr02\bin\Debug\net10.0\CSAssignmenr02.runtimeconfig.json
+D:\Assignment-20260203T090610Z-3-001\CSAssignmenr02\CSAssignmenr02\bin\Debug\net10.0\CSAssignmenr02.dll
+D:\Assignment-20260203T090610Z-3-001\CSAssignmenr02\CSAssignmenr02\bin\Debug\net10.0\CSAssignmenr02.pdb
+D:\Assignment-20260203T090610Z-3-001\CSAssignmenr02\CSAssignmenr02\obj\Debug\net10.0\CSAssignmenr02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment-20260203T090610Z-3-001\CSAssignmenr02\CSAssignmenr02\obj\Debug\net10.0\CSAssignmenr02.AssemblyInfoInputs.cache
+D:\Assignment-20260203T090610Z-3-001\CSAssignmenr02\CSAssignmenr02\obj\Debug\net10.0\CSAssignmenr02.AssemblyInfo.cs
+D:\Assignment-20260203T090610Z-3-001\CSAssignmenr02\CSAssignmenr02\obj\Debug\net10.0\CSAssignmenr02.csproj.CoreCompileInputs.cache
+D:\Assignment-20260203T090610Z-3-001\CSAssignmenr02\CSAssignmenr02\obj\Debug\net10.0\CSAssignmenr02.sourcelink.json
+D:\Assignment-20260203T090610Z-3-001\CSAssignmenr02\CSAssignmenr02\obj\Debug\net10.0\CSAssignmenr02.dll
+D:\Assignment-20260203T090610Z-3-001\CSAssignmenr02\CSAssignmenr02\obj\Debug\net10.0\refint\CSAssignmenr02.dll
+D:\Assignment-20260203T090610Z-3-001\CSAssignmenr02\CSAssignmenr02\obj\Debug\net10.0\CSAssignmenr02.pdb
+D:\Assignment-20260203T090610Z-3-001\CSAssignmenr02\CSAssignmenr02\obj\Debug\net10.0\CSAssignmenr02.genruntimeconfig.cache
+D:\Assignment-20260203T090610Z-3-001\CSAssignmenr02\CSAssignmenr02\obj\Debug\net10.0\ref\CSAssignmenr02.dll

@@ -1,0 +1,15 @@
+D:\Assignment-20260203T090610Z-3-001\CSAssignment03\CSAssignment03\bin\Debug\net10.0\CSAssignment03.exe
+D:\Assignment-20260203T090610Z-3-001\CSAssignment03\CSAssignment03\bin\Debug\net10.0\CSAssignment03.deps.json
+D:\Assignment-20260203T090610Z-3-001\CSAssignment03\CSAssignment03\bin\Debug\net10.0\CSAssignment03.runtimeconfig.json
+D:\Assignment-20260203T090610Z-3-001\CSAssignment03\CSAssignment03\bin\Debug\net10.0\CSAssignment03.dll
+D:\Assignment-20260203T090610Z-3-001\CSAssignment03\CSAssignment03\bin\Debug\net10.0\CSAssignment03.pdb
+D:\Assignment-20260203T090610Z-3-001\CSAssignment03\CSAssignment03\obj\Debug\net10.0\CSAssignment03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment-20260203T090610Z-3-001\CSAssignment03\CSAssignment03\obj\Debug\net10.0\CSAssignment03.AssemblyInfoInputs.cache
+D:\Assignment-20260203T090610Z-3-001\CSAssignment03\CSAssignment03\obj\Debug\net10.0\CSAssignment03.AssemblyInfo.cs
+D:\Assignment-20260203T090610Z-3-001\CSAssignment03\CSAssignment03\obj\Debug\net10.0\CSAssignment03.csproj.CoreCompileInputs.cache
+D:\Assignment-20260203T090610Z-3-001\CSAssignment03\CSAssignment03\obj\Debug\net10.0\CSAssignment03.sourcelink.json
+D:\Assignment-20260203T090610Z-3-001\CSAssignment03\CSAssignment03\obj\Debug\net10.0\CSAssignment03.dll
+D:\Assignment-20260203T090610Z-3-001\CSAssignment03\CSAssignment03\obj\Debug\net10.0\refint\CSAssignment03.dll
+D:\Assignment-20260203T090610Z-3-001\CSAssignment03\CSAssignment03\obj\Debug\net10.0\CSAssignment03.pdb
+D:\Assignment-20260203T090610Z-3-001\CSAssignment03\CSAssignment03\obj\Debug\net10.0\CSAssignment03.genruntimeconfig.cache
+D:\Assignment-20260203T090610Z-3-001\CSAssignment03\CSAssignment03\obj\Debug\net10.0\ref\CSAssignment03.dll

@@ -1,6 +1,9 @@
 ﻿
 #region q1
 
+using CSAssignment04;
+using DayOfWeek = System.DayOfWeek;
+
 Console.Write("Enter day number (0-6): ");
 int number = int.Parse(Console.ReadLine());
 
@@ -112,12 +115,12 @@ for (int i = 0; i < students; i++)
     int sum1 = 0;
 
     for (int j = 0; j < subjects; j++)
-        sum += grades[i, j];
+        sum1 += grades[i, j];
 
     double average1 = (double)sum / subjects;
     Console.WriteLine($"Student {i + 1} average = {average:F2}");
 
-    classTotal += sum;
+    classTotal += sum1;
 }
 
 double classAverage = classTotal / (students * subjects);
@@ -223,5 +226,79 @@ CalculateCircle(radius, out area, out circumference);
 Console.WriteLine($"\nArea = {area:F2}");
 Console.WriteLine($"Circumference = {circumference:F2}");
 
+
+#endregion
+
+#region Q6
+
+static Grade GetGrade(int score)
+{
+    if (score >= 90)
+        return Grade.A;
+    else if (score >= 80)
+        return Grade.B;
+    else if (score >= 70)
+        return Grade.C;
+    else if (score >= 60)
+        return Grade.D;
+    else
+        return Grade.F;
+}
+
+static double CalculateAverage(int[] scores)
+{
+    int sum = 0;
+
+    for (int i = 0; i < scores.Length; i++)
+        sum += scores[i];
+
+    return (double)sum / scores.Length;
+}
+
+static void GetMinMax(int[] scores, out int min, out int max)
+{
+    min = scores[0];
+    max = scores[0];
+
+    for (int i = 1; i < scores.Length; i++)
+    {
+        if (scores[i] < min)
+            min = scores[i];
+
+        if (scores[i] > max)
+            max = scores[i];
+    }
+}
+
+const int STUDENTS = 5;
+int[] scores = new int[STUDENTS];
+
+for (int i = 0; i < STUDENTS; i++)
+{
+    while (true)
+    {
+        Console.Write($"Enter score for student {i + 1}: ");
+
+        if (int.TryParse(Console.ReadLine(), out scores[i]) &&
+            scores[i] >= 0 && scores[i] <= 100)
+            break;
+
+        Console.WriteLine("Invalid score. Enter 0 - 100.");
+    }
+}
+
+Console.WriteLine("\nStudent Results:");
+for (int i = 0; i < STUDENTS; i++)
+{
+    Grade g = GetGrade(scores[i]);
+    Console.WriteLine($"Student {i + 1}: Score = {scores[i]}, Grade = {g}");
+}
+
+double average2 = CalculateAverage(scores);
+Console.WriteLine($"\nClass Average = {average2:F2}");
+
+GetMinMax(scores, out int min2, out int max2);
+Console.WriteLine($"Minimum Score = {min2}");
+Console.WriteLine($"Maximum Score = {max2}");
 
 #endregion

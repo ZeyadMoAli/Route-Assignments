@@ -1,0 +1,15 @@
+D:\Assignment-20260203T090610Z-3-001\Assignment02oop\Assignment02oop\bin\Debug\net10.0\Assignment02oop.exe
+D:\Assignment-20260203T090610Z-3-001\Assignment02oop\Assignment02oop\bin\Debug\net10.0\Assignment02oop.deps.json
+D:\Assignment-20260203T090610Z-3-001\Assignment02oop\Assignment02oop\bin\Debug\net10.0\Assignment02oop.runtimeconfig.json
+D:\Assignment-20260203T090610Z-3-001\Assignment02oop\Assignment02oop\bin\Debug\net10.0\Assignment02oop.dll
+D:\Assignment-20260203T090610Z-3-001\Assignment02oop\Assignment02oop\bin\Debug\net10.0\Assignment02oop.pdb
+D:\Assignment-20260203T090610Z-3-001\Assignment02oop\Assignment02oop\obj\Debug\net10.0\Assignment02oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment-20260203T090610Z-3-001\Assignment02oop\Assignment02oop\obj\Debug\net10.0\Assignment02oop.AssemblyInfoInputs.cache
+D:\Assignment-20260203T090610Z-3-001\Assignment02oop\Assignment02oop\obj\Debug\net10.0\Assignment02oop.AssemblyInfo.cs
+D:\Assignment-20260203T090610Z-3-001\Assignment02oop\Assignment02oop\obj\Debug\net10.0\Assignment02oop.csproj.CoreCompileInputs.cache
+D:\Assignment-20260203T090610Z-3-001\Assignment02oop\Assignment02oop\obj\Debug\net10.0\Assignment02oop.sourcelink.json
+D:\Assignment-20260203T090610Z-3-001\Assignment02oop\Assignment02oop\obj\Debug\net10.0\Assignment02oop.dll
+D:\Assignment-20260203T090610Z-3-001\Assignment02oop\Assignment02oop\obj\Debug\net10.0\refint\Assignment02oop.dll
+D:\Assignment-20260203T090610Z-3-001\Assignment02oop\Assignment02oop\obj\Debug\net10.0\Assignment02oop.pdb
+D:\Assignment-20260203T090610Z-3-001\Assignment02oop\Assignment02oop\obj\Debug\net10.0\Assignment02oop.genruntimeconfig.cache
+D:\Assignment-20260203T090610Z-3-001\Assignment02oop\Assignment02oop\obj\Debug\net10.0\ref\Assignment02oop.dll

@@ -1,0 +1,15 @@
+D:\Assignment-20260203T090610Z-3-001\Linq02\Linq02\bin\Debug\net10.0\Linq02.exe
+D:\Assignment-20260203T090610Z-3-001\Linq02\Linq02\bin\Debug\net10.0\Linq02.deps.json
+D:\Assignment-20260203T090610Z-3-001\Linq02\Linq02\bin\Debug\net10.0\Linq02.runtimeconfig.json
+D:\Assignment-20260203T090610Z-3-001\Linq02\Linq02\bin\Debug\net10.0\Linq02.dll
+D:\Assignment-20260203T090610Z-3-001\Linq02\Linq02\bin\Debug\net10.0\Linq02.pdb
+D:\Assignment-20260203T090610Z-3-001\Linq02\Linq02\obj\Debug\net10.0\Linq02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment-20260203T090610Z-3-001\Linq02\Linq02\obj\Debug\net10.0\Linq02.AssemblyInfoInputs.cache
+D:\Assignment-20260203T090610Z-3-001\Linq02\Linq02\obj\Debug\net10.0\Linq02.AssemblyInfo.cs
+D:\Assignment-20260203T090610Z-3-001\Linq02\Linq02\obj\Debug\net10.0\Linq02.csproj.CoreCompileInputs.cache
+D:\Assignment-20260203T090610Z-3-001\Linq02\Linq02\obj\Debug\net10.0\Linq02.sourcelink.json
+D:\Assignment-20260203T090610Z-3-001\Linq02\Linq02\obj\Debug\net10.0\Linq02.dll
+D:\Assignment-20260203T090610Z-3-001\Linq02\Linq02\obj\Debug\net10.0\refint\Linq02.dll
+D:\Assignment-20260203T090610Z-3-001\Linq02\Linq02\obj\Debug\net10.0\Linq02.pdb
+D:\Assignment-20260203T090610Z-3-001\Linq02\Linq02\obj\Debug\net10.0\Linq02.genruntimeconfig.cache
+D:\Assignment-20260203T090610Z-3-001\Linq02\Linq02\obj\Debug\net10.0\ref\Linq02.dll
